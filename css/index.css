@@ -1,0 +1,11 @@
+.h1 {
+  font-family: "Lobster", cursive;
+}
+
+body {
+    background-image: linear-gradient(to right top, white, rgb(128, 126, 126), grey); 
+}
+
+.jumbotron {
+    background-image: linear-gradient(to right top, white, rgb(128, 126, 126), grey); 
+}
